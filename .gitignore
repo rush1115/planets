@@ -1,0 +1,5 @@
+#specify files or file types that can be ignored by git/
+
+*.sac
+*.patch
+notes.txt
